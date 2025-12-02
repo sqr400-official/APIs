@@ -1,0 +1,5 @@
+{
+  "smtpServer": "mail.sqr400web.com",
+  "smtpPort": 465,
+  "email": "hello@sqr400web.com",
+}
