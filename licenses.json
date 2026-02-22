@@ -1,16 +1,7 @@
 {
   "keys": [
-    {
-      "key": "BNTX-1234-ABCD-5678",
-      "plan": "pro",
-      "active": true,
-      "expiresAt": "2027-01-01T00:00:00Z"
-    },
-    {
-      "key": "BNTX-9999-ZZZZ-0001",
-      "plan": "standard",
-      "active": true,
-      "expiresAt": "2026-12-31T00:00:00Z"
-    }
+    { "key": "BONTIX-AAAA-1111-XXXX", "plan": "pro",   "active": true  },
+    { "key": "BONTIX-BBBB-2222-YYYY", "plan": "basic",  "active": true  },
+    { "key": "BONTIX-CCCC-3333-ZZZZ", "plan": "pro",   "active": false }
   ]
 }
